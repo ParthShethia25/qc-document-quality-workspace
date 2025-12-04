@@ -91,4 +91,6 @@ The prototype uses mocked data and is not production-ready.
 ## 🎥 Optional Demo
 🔗 Live Retool Prototype: https://parthshethia2004.retool.com/apps/b8b91f80-d120-11f0-8550-532f5895867c/QC%20Document%20Inbox/page1
 
+🔗 Live Video Walkthrough : https://youtu.be/A7VJMORhqeA
+
 
