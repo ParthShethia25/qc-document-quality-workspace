@@ -1,0 +1,52 @@
+{
+  "documents": [
+    {
+      "id": "DOC-001",
+      "customer": "ABC Corp",
+      "status": "failed",
+      "error": "missing_invoice_date",
+      "confidence": null,
+      "created_at": "2024-09-01T10:15:00Z"
+    },
+    {
+      "id": "DOC-002",
+      "customer": "XYZ Ltd",
+      "status": "needs_review",
+      "error": "low_confidence_total_amount",
+      "confidence": 0.62,
+      "created_at": "2024-09-01T11:05:00Z"
+    },
+    {
+      "id": "DOC-003",
+      "customer": "ABC Corp",
+      "status": "failed",
+      "error": "erp_integration_failure",
+      "confidence": 0.91,
+      "created_at": "2024-09-01T12:30:00Z"
+    },
+    {
+      "id": "DOC-004",
+      "customer": "LMN Industries",
+      "status": "in_progress",
+      "error": "business_rule_violation",
+      "confidence": 0.88,
+      "created_at": "2024-09-01T13:10:00Z"
+    },
+    {
+      "id": "DOC-005",
+      "customer": "XYZ Ltd",
+      "status": "resolved",
+      "error": "missing_tax_id",
+      "confidence": null,
+      "created_at": "2024-09-01T09:45:00Z"
+    },
+    {
+      "id": "DOC-006",
+      "customer": "ABC Corp",
+      "status": "needs_review",
+      "error": "invalid_date_format",
+      "confidence": 0.67,
+      "created_at": "2024-09-01T14:20:00Z"
+    }
+  ]
+}
